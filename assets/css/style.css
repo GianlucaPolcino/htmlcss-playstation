@@ -1,0 +1,12 @@
+.gp-bg-black{
+    background-color: black;
+}
+
+.gp-nav-color{
+    color: black !important;
+}
+
+.gp-svg-lens{
+    width: 24px;
+    cursor: pointer;
+}

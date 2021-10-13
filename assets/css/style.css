@@ -40,3 +40,16 @@
 .gp-ps-margin{
     margin-top: 160px;
 }
+
+@media screen and (max-width:768px){
+    .gp-ps-margin{
+        margin-top: 50px;
+    }
+}
+
+.gp-jumbo-2{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+

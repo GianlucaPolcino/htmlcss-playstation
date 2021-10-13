@@ -57,3 +57,20 @@
     background-color: #1f1f1f;
 }
 
+.gp-margin-negative{
+    margin-top: -16px;
+}
+
+.gp-bg-gray{
+    background-color: #adabaa;
+}
+
+.gp-ps-margin-2{
+    margin-top: 120px;
+}
+
+.gp-ps-plus-button{
+    background-color: #d9dadc !important;
+    border-color: #adabaa !important;
+}
+

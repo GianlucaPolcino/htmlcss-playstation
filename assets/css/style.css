@@ -41,12 +41,6 @@
     margin-top: 160px;
 }
 
-@media screen and (max-width:768px){
-    .gp-ps-margin{
-        margin-top: 50px;
-    }
-}
-
 .gp-jumbo-2{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
@@ -72,5 +66,40 @@
 .gp-ps-plus-button{
     background-color: #d9dadc !important;
     border-color: #adabaa !important;
+}
+
+.gp-bg-ps-now{
+    background-color: #161c3b;
+}
+
+.gp-container-custom{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.gp-bg-footer{
+    background-color: #00439c;
+}
+
+.gp-ps-logo-footer{
+    width: 100px;
+}
+
+.gp-globe{
+    width: 18px;
+}
+
+.gp-ul{
+    list-style: none;
+}
+
+.gp-a{
+    text-decoration: none;
+    color: white;
+}
+
+.gp-sie{
+    width: 150px;
 }
 

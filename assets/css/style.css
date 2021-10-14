@@ -10,6 +10,10 @@
     color: black !important;
 }
 
+.gp-nav-color:hover{
+    color: #3b92d8 !important;
+}
+
 .gp-svg-lens{
     width: 24px;
     cursor: pointer;
@@ -120,5 +124,19 @@
 
 .gp-opacity:hover{
     filter: opacity(1);
+}
+
+
+
+/* Nav bonus */
+
+.nav > li.dropdown.open {
+    position: static;
+}
+.nav > li.dropdown.open .dropdown-menu {
+    display:table; width: 100%; text-align: center; left:0; right:0;
+}
+.dropdown-menu>li {
+    display: table-cell;
 }
 

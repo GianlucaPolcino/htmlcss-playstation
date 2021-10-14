@@ -100,6 +100,25 @@
 }
 
 .gp-rounded{
-    border-radius: 30px;
+    border-radius: 18px;
+}
+
+.gp-transition{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.gp-transition:hover{
+    transform: translateY(-10px);
+}
+
+.gp-opacity{
+    filter: opacity(50%);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.gp-opacity:hover{
+    filter: opacity(1);
 }
 

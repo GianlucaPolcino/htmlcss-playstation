@@ -126,6 +126,12 @@
     filter: opacity(1);
 }
 
+.gp-info{
+    cursor: pointer;
+    text-decoration: underline;
+    color: white;
+}
+
 
 
 /* Nav bonus */

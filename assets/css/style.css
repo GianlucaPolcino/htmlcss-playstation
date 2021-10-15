@@ -24,6 +24,13 @@
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
+@keyframes fade{
+    from {opacity: 0;}
+    to {opacity: 1;}
 }
 
 .gp-returnal{
